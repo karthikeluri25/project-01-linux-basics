@@ -34,6 +34,29 @@ This project demonstrates essential Linux commands required for DevOps engineers
 | chown | Change ownership |
 | umask | Default permissions |
 
+## User & Group Management
+
+| Command | Description |
+|--------|------------|
+| useradd | Create a new user |
+| userdel | Delete a user |
+| usermod | Modify a user account |
+| groupadd | Create a new group |
+| groupdel | Delete a group |
+| groups | Show groups of a user |
+| passwd | Change user password |
+| su | Switch user |
+| sudo | Execute command as superuser |
+
+---
+
+### Examples
+
+Create a new user:
+```bash
+sudo useradd devuser
+
+
 ## Process Management
 
 | Command | Description |
