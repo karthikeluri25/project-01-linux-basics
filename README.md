@@ -85,6 +85,9 @@ This project demonstrates essential Linux commands required for DevOps engineers
 
 ---
 
+## Learning Outcome
+Strong Linux fundamentals
+
 
 Example:
 ```bash
