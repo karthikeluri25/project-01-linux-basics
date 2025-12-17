@@ -50,11 +50,6 @@ This project demonstrates essential Linux commands required for DevOps engineers
 
 ---
 
-### Examples
-
-Create a new user:
-```bash
-sudo useradd devuser
 
 
 ## Process Management
